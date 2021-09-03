@@ -1,0 +1,8 @@
+from .fbk_data_collectors import MunicipalityDataCollector, ProvinceDataCollector
+from .municipality_collector import MunicipalityCollector
+from .province_collector import ProvinceCollector
+from .region_risk_collector import RegionRiskCollector
+from .weather_collectors import WeatherStationCollector, WeatherDataCollector
+from .holiday_collector import HolidayCollector
+from .vaccines_collectors import VaccinesDeliveryDataCollector, VaccinesAdministrationDataCollector
+from .stringency_index_collector import StringencyIndexCollector

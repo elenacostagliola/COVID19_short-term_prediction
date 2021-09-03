@@ -1,0 +1,14 @@
+# Cross-platform requirements
+pandas
+matplotlib
+jupyter
+python-dotenv
+requests
+lxml
+mysql-connector-python
+rtree
+pymongo[srv]
+statsmodels
+scikit-learn
+joblib
+certifi

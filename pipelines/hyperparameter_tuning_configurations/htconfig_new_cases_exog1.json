@@ -1,0 +1,18 @@
+{
+  "outputs": ["new_cases"],
+  "regressors": ["stringency_index"],
+  "date_from": "2020",
+  "p_values": [0,1,2,3,4,5],
+  "d_values": [1],
+  "q_values": [0,1,2,3,4,5],
+  "P_values": [0, 1, 2],
+  "D_values": [0],
+  "Q_values": [0, 1, 2],
+  "m_values": [7],
+  "t_values": ["n"],
+  "performance_measure": "rmse",
+  "cv_n_splits": 30,
+  "cv_max_test_size": 7,
+  "parallel": true,
+  "debug": false
+}

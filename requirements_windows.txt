@@ -1,0 +1,8 @@
+-r requirements_generic.txt
+# Windows-specific requirements
+# Current wheels are for Python 3.8 and Windows 64 bits
+.\geopandas_windows_wheels\GDAL-3.3.0-cp38-cp38-win_amd64.whl
+.\geopandas_windows_wheels\pyproj-3.1.0-cp38-cp38-win_amd64.whl
+.\geopandas_windows_wheels\Fiona-1.8.20-cp38-cp38-win_amd64.whl
+.\geopandas_windows_wheels\Shapely-1.7.1-cp38-cp38-win_amd64.whl
+.\geopandas_windows_wheels\geopandas-0.9.0-py3-none-any.whl

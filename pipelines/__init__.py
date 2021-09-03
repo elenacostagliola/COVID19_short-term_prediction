@@ -1,0 +1,1 @@
+from .municipality_weatherstation_linker import MunicipalityWeatherStationLinker

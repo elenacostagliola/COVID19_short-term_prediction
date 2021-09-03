@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Windows
+desktop.ini
+
+# IDEs and editors
+.vscode
+.idea
+
+# Config vars
+.env
+
+# Virtual environments
+venv*
